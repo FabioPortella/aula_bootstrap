@@ -1,5 +1,3 @@
-# aula_bootstrap
+# Aula_bootstrap
 
-Digital Inovation One
-Continuação da aula de HTML5 e CSS
-acrescentando Bootstrap.
+Continuação da aula de HTML5 e CSS da Digital Inovation One, acrescentando Bootstrap.
